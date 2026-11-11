@@ -1,3 +1,4 @@
+# Fresh workflow runs avoid duplicate artifacts from rerun attempts.
 name: Deploy static site to GitHub Pages
 
 on:
