@@ -1,0 +1,8 @@
+const SEED_PRODUCTS = [
+{id:'p1',name:'Домашняя морковь',category:'Овощи',quantity:'8 кг',expiry:'2026-11-18',location:'с. Новое, ул. Центральная',description:'Свежая морковь со своего огорода. Урожай этого сезона, хранится в прохладном месте.',emoji:'🥕',owner:'Мария Петрова',status:'available',created:Date.now()-500000},
+{id:'p2',name:'Яблоки садовые',category:'Фрукты',quantity:'12 кг',expiry:'2026-11-20',location:'д. Берёзовка, ул. Садовая',description:'Сладкие домашние яблоки, собраны вручную. Есть небольшие и крупные.',emoji:'🍎',owner:'Иван Соколов',status:'available',created:Date.now()-400000},
+{id:'p3',name:'Картофель',category:'Овощи',quantity:'15 кг',expiry:'2026-12-10',location:'с. Новое, фермерское хозяйство',description:'Чистый картофель, подходит для хранения и приготовления любых блюд.',emoji:'🥔',owner:'Алексей Миронов',status:'available',created:Date.now()-300000},
+{id:'p4',name:'Домашние кабачки',category:'Овощи',quantity:'5 шт.',expiry:'2026-11-16',location:'п. Лесной, ул. Полевая',description:'Молодые кабачки со своего участка. Отдам всё вместе.',emoji:'🥒',owner:'Ольга Кузнецова',status:'available',created:Date.now()-200000},
+{id:'p5',name:'Груши',category:'Фрукты',quantity:'4 кг',expiry:'2026-11-17',location:'д. Берёзовка, ул. Речная',description:'Спелые ароматные груши. Лучше забрать в ближайшие дни.',emoji:'🍐',owner:'Мария Петрова',status:'available',created:Date.now()-100000},
+{id:'p6',name:'Домашнее молоко',category:'Молочные продукты',quantity:'2 л',expiry:'2026-11-12',location:'с. Новое, ул. Центральная',description:'Свежее пастеризованное молоко. Хранить в холодильнике.',emoji:'🥛',owner:'Елена Волкова',status:'available',created:Date.now()-50000}
+];
